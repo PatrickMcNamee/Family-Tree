@@ -7,12 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		390CBA661A98EEA3008F7291 /* arrow_BW_thin_right.png in Resources */ = {isa = PBXBuildFile; fileRef = 390CBA651A98EEA3008F7291 /* arrow_BW_thin_right.png */; };
+		390CBA681A98EEE4008F7291 /* arrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 390CBA671A98EEE4008F7291 /* arrow.png */; };
 		399CEB021A96B88A003918DF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 399CEB011A96B88A003918DF /* AppDelegate.swift */; };
 		399CEB041A96B88A003918DF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 399CEB031A96B88A003918DF /* ViewController.swift */; };
 		399CEB071A96B88A003918DF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 399CEB051A96B88A003918DF /* Main.storyboard */; };
 		399CEB091A96B88A003918DF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 399CEB081A96B88A003918DF /* Images.xcassets */; };
 		399CEB0C1A96B88A003918DF /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 399CEB0A1A96B88A003918DF /* LaunchScreen.xib */; };
 		399CEB181A96B88A003918DF /* Family_TreeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 399CEB171A96B88A003918DF /* Family_TreeTests.swift */; };
+		399CEB221A96C143003918DF /* bulbasaur.png in Resources */ = {isa = PBXBuildFile; fileRef = 399CEB211A96C143003918DF /* bulbasaur.png */; };
+		399CEB241A96C148003918DF /* Ivysaur.png in Resources */ = {isa = PBXBuildFile; fileRef = 399CEB231A96C148003918DF /* Ivysaur.png */; };
+		399CEB261A96C14C003918DF /* Venasaur.png in Resources */ = {isa = PBXBuildFile; fileRef = 399CEB251A96C14C003918DF /* Venasaur.png */; };
+		399CEB2A1A96C152003918DF /* Charmeleon.png in Resources */ = {isa = PBXBuildFile; fileRef = 399CEB271A96C152003918DF /* Charmeleon.png */; };
+		399CEB2B1A96C152003918DF /* Charizard.png in Resources */ = {isa = PBXBuildFile; fileRef = 399CEB281A96C152003918DF /* Charizard.png */; };
+		399CEB2C1A96C152003918DF /* Charmander.png in Resources */ = {isa = PBXBuildFile; fileRef = 399CEB291A96C152003918DF /* Charmander.png */; };
+		399CEB301A96C15F003918DF /* Wartortle.png in Resources */ = {isa = PBXBuildFile; fileRef = 399CEB2D1A96C15F003918DF /* Wartortle.png */; };
+		399CEB311A96C15F003918DF /* Squirtle.png in Resources */ = {isa = PBXBuildFile; fileRef = 399CEB2E1A96C15F003918DF /* Squirtle.png */; };
+		399CEB321A96C15F003918DF /* blastoise.png in Resources */ = {isa = PBXBuildFile; fileRef = 399CEB2F1A96C15F003918DF /* blastoise.png */; };
+		399CEB361A96C5AA003918DF /* pokemon background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 399CEB351A96C5AA003918DF /* pokemon background.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		390CBA651A98EEA3008F7291 /* arrow_BW_thin_right.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arrow_BW_thin_right.png; sourceTree = "<group>"; };
+		390CBA671A98EEE4008F7291 /* arrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arrow.png; sourceTree = "<group>"; };
 		399CEAFC1A96B88A003918DF /* Family Tree.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Family Tree.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		399CEB001A96B88A003918DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		399CEB011A96B88A003918DF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -36,6 +50,16 @@
 		399CEB111A96B88A003918DF /* Family TreeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Family TreeTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		399CEB161A96B88A003918DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		399CEB171A96B88A003918DF /* Family_TreeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Family_TreeTests.swift; sourceTree = "<group>"; };
+		399CEB211A96C143003918DF /* bulbasaur.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bulbasaur.png; sourceTree = "<group>"; };
+		399CEB231A96C148003918DF /* Ivysaur.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Ivysaur.png; sourceTree = "<group>"; };
+		399CEB251A96C14C003918DF /* Venasaur.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Venasaur.png; sourceTree = "<group>"; };
+		399CEB271A96C152003918DF /* Charmeleon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Charmeleon.png; sourceTree = "<group>"; };
+		399CEB281A96C152003918DF /* Charizard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Charizard.png; sourceTree = "<group>"; };
+		399CEB291A96C152003918DF /* Charmander.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Charmander.png; sourceTree = "<group>"; };
+		399CEB2D1A96C15F003918DF /* Wartortle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Wartortle.png; sourceTree = "<group>"; };
+		399CEB2E1A96C15F003918DF /* Squirtle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Squirtle.png; sourceTree = "<group>"; };
+		399CEB2F1A96C15F003918DF /* blastoise.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blastoise.png; sourceTree = "<group>"; };
+		399CEB351A96C5AA003918DF /* pokemon background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "pokemon background.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +114,18 @@
 		399CEAFF1A96B88A003918DF /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				390CBA671A98EEE4008F7291 /* arrow.png */,
+				390CBA651A98EEA3008F7291 /* arrow_BW_thin_right.png */,
+				399CEB351A96C5AA003918DF /* pokemon background.jpg */,
+				399CEB2D1A96C15F003918DF /* Wartortle.png */,
+				399CEB2E1A96C15F003918DF /* Squirtle.png */,
+				399CEB2F1A96C15F003918DF /* blastoise.png */,
+				399CEB271A96C152003918DF /* Charmeleon.png */,
+				399CEB281A96C152003918DF /* Charizard.png */,
+				399CEB291A96C152003918DF /* Charmander.png */,
+				399CEB251A96C14C003918DF /* Venasaur.png */,
+				399CEB231A96C148003918DF /* Ivysaur.png */,
+				399CEB211A96C143003918DF /* bulbasaur.png */,
 				399CEB001A96B88A003918DF /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -161,9 +197,11 @@
 				TargetAttributes = {
 					399CEAFB1A96B88A003918DF = {
 						CreatedOnToolsVersion = 6.1.1;
+						LastSwiftMigration = 0820;
 					};
 					399CEB101A96B88A003918DF = {
 						CreatedOnToolsVersion = 6.1.1;
+						LastSwiftMigration = 0820;
 						TestTargetID = 399CEAFB1A96B88A003918DF;
 					};
 				};
@@ -192,9 +230,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				399CEB2B1A96C152003918DF /* Charizard.png in Resources */,
+				399CEB261A96C14C003918DF /* Venasaur.png in Resources */,
 				399CEB071A96B88A003918DF /* Main.storyboard in Resources */,
+				399CEB361A96C5AA003918DF /* pokemon background.jpg in Resources */,
+				390CBA661A98EEA3008F7291 /* arrow_BW_thin_right.png in Resources */,
+				399CEB221A96C143003918DF /* bulbasaur.png in Resources */,
+				399CEB311A96C15F003918DF /* Squirtle.png in Resources */,
+				399CEB301A96C15F003918DF /* Wartortle.png in Resources */,
 				399CEB0C1A96B88A003918DF /* LaunchScreen.xib in Resources */,
+				399CEB2C1A96C152003918DF /* Charmander.png in Resources */,
+				399CEB241A96C148003918DF /* Ivysaur.png in Resources */,
 				399CEB091A96B88A003918DF /* Images.xcassets in Resources */,
+				399CEB321A96C15F003918DF /* blastoise.png in Resources */,
+				390CBA681A98EEE4008F7291 /* arrow.png in Resources */,
+				399CEB2A1A96C152003918DF /* Charmeleon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -341,6 +391,7 @@
 				INFOPLIST_FILE = "Family Tree/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -351,6 +402,7 @@
 				INFOPLIST_FILE = "Family Tree/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -369,6 +421,7 @@
 				INFOPLIST_FILE = "Family TreeTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Family Tree.app/Family Tree";
 			};
 			name = Debug;
@@ -384,6 +437,7 @@
 				INFOPLIST_FILE = "Family TreeTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Family Tree.app/Family Tree";
 			};
 			name = Release;
@@ -407,6 +461,7 @@
 				399CEB1D1A96B88A003918DF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		399CEB1E1A96B88A003918DF /* Build configuration list for PBXNativeTarget "Family TreeTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +470,7 @@
 				399CEB201A96B88A003918DF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
